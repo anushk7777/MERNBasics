@@ -34,3 +34,4 @@ const person2 = {
     ...person, name : "Jack"
 }
 // ... using this when copying same objects but slight changes
+
